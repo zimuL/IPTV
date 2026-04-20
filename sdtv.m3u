@@ -262,6 +262,7 @@ https://live.ottiptv.cc/yy/1355652820
 https://live.ottiptv.cc/huya/11342433
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374796796.png" group-title="电视剧",地下交通站
 https://live.ottiptv.cc/yy/1353428972
-
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16-Z.png" group-title="山东移动电视",CCTV-16
+http://39.134.144.6:8089/PLTV/88888888/224/3221226469/index.m3u8
 
 
