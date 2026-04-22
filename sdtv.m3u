@@ -104,7 +104,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="山东移动电视",东方卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-id="五星体育" tvg-name="五星体育" tvg-id="cctv" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="山东移动电视",五星体育
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="山东移动电视",五星体育
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-id="cctv" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="山东移动电视",劲爆体育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
@@ -177,23 +177,23 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="山东移动电视",兵团卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
 
-#EXTINF:-1 tvg-name="济南新闻综合" tvg-id="济南新闻综合" tvg-logo="http://www.zyz98.com/uploads/jnxwzh.jpg" group-title="山东移动电视",济南新闻综合
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-id="济南新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/济南新闻综合.png" group-title="山东移动电视",济南新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
-#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-id="潍坊新闻综合" tvg-logo="http://www.zyz98.com/uploads/wftv1.jpg" group-title="山东移动电视",潍坊新闻综合
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-id="潍坊新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/潍坊1.png" group-title="山东移动电视",潍坊新闻综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
-#EXTINF:-1 tvg-name="潍坊经济生活" tvg-id="潍坊经济生活" tvg-logo="http://www.zyz98.com/uploads/wftv2.jpg" group-title="山东移动电视",潍坊经济生活
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-id="潍坊经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/潍坊2.png" group-title="山东移动电视",潍坊经济生活
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
-#EXTINF:-1 tvg-name="潍坊公共频道" tvg-id="潍坊公共频道" tvg-logo="http://www.zyz98.com/uploads/wftv3.jpg" group-title="山东移动电视",潍坊公共频道
+#EXTINF:-1 tvg-name="潍坊公共频道" tvg-id="潍坊公共频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/潍坊3.png" group-title="山东移动电视",潍坊公共频道
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
-#EXTINF:-1 tvg-name="潍坊科教文化" tvg-id="潍坊科教文化" tvg-logo="http://www.zyz98.com/uploads/wftv4.jpg" group-title="山东移动电视",潍坊科教文化
+#EXTINF:-1 tvg-name="潍坊科教文化" tvg-id="潍坊科教文化" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/潍坊4.png" group-title="山东移动电视",潍坊科教文化
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
-#EXTINF:-1 tvg-name="淄博新闻综合" tvg-id="淄博新闻综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/faedab64034f78f09e63d1a776310a55b3191c7d" group-title="山东移动电视",淄博新闻综合
+#EXTINF:-1 tvg-name="淄博新闻综合" tvg-id="淄博新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/淄博.png" group-title="山东移动电视",淄博新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
-#EXTINF:-1 tvg-name="淄博影视" tvg-id="淄博影视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b7fd5266d0160924ab18cd13bf5322fae6cd7b899e25" group-title="山东移动电视",淄博影视
+#EXTINF:-1 tvg-name="淄博影视" tvg-id="淄博影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/淄博.png" group-title="山东移动电视",淄博影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
-#EXTINF:-1 tvg-name="邹平综合" tvg-id="邹平综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c11dfda3a1141742762d0f6036580" group-title="山东移动电视",邹平综合
+#EXTINF:-1 tvg-name="邹平综合" tvg-id="邹平综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/滨州邹平.png" group-title="山东移动电视",邹平综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
-#EXTINF:-1 tvg-name="安丘综合" tvg-id="安丘综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc43a6016e59526cffc1e17b9d8" group-title="山东移动电视",安丘综合
+#EXTINF:-1 tvg-name="安丘综合" tvg-id="安丘综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/潍坊安丘.png" group-title="山东移动电视",安丘综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
 
 #EXTINF:-1 tvg-name="大宅门2" tvg-logo="https://img1.doubanio.com/view/photo/m/public/p1990293148.png" group-title="电视剧",大宅门2
