@@ -32,7 +32,7 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://upload.112114.xyz/logo/CCTV15-Z.png" group-title="山东移动电视",CCTV-15
 http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16-Z.png" group-title="山东移动电视",CCTV-16
-http://39.134.144.6:8089/PLTV/88888888/224/3221226469/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://upload.112114.xyz/logo/CCTV17-Z.png" group-title="山东移动电视",CCTV-17
 http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://upload.112114.xyz/logo/CCTV5+-Z.png" group-title="山东移动电视",CCTV-5+
