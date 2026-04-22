@@ -1,198 +1,198 @@
-#EXTM3U x tvg-id="cctv"-tvg-url="https://11.112114.xyz/pp.xml"
-
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV1-Z.png" group-title="山东移动电视",CCTV-1
-http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://upload.112114.xyz/logo/CCTV2-Z.png" group-title="山东移动电视",CCTV-2
-http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://upload.112114.xyz/logo/CCTV3-Z.png" group-title="山东移动电视",CCTV-3
-http://39.134.144.6:8089/PLTV/88888888/224/3221226338/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://upload.112114.xyz/logo/CCTV4-Z.png" group-title="山东移动电视",CCTV-4
-http://39.134.144.6:8089/PLTV/88888888/224/3221225757/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://upload.112114.xyz/logo/CCTV5-Z.png" group-title="山东移动电视",CCTV-5
-http://39.134.144.6:8089/PLTV/88888888/224/3221226425/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://upload.112114.xyz/logo/CCTV6-Z.png" group-title="山东移动电视",CCTV-6
-http://39.134.144.6:8089/PLTV/88888888/224/3221226427/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://upload.112114.xyz/logo/CCTV7-Z.png" group-title="山东移动电视",CCTV-7
-http://39.134.144.6:8089/PLTV/88888888/224/3221225753/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://upload.112114.xyz/logo/CCTV8-Z.png" group-title="山东移动电视",CCTV-8
-http://39.134.144.6:8089/PLTV/88888888/224/3221226429/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://upload.112114.xyz/logo/CCTV9-Z.png" group-title="山东移动电视",CCTV-9
-http://39.134.144.6:8089/PLTV/88888888/224/3221225759/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://upload.112114.xyz/logo/CCTV10-Z.png" group-title="山东移动电视",CCTV-10
-http://39.134.144.6:8089/PLTV/88888888/224/3221225761/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://upload.112114.xyz/logo/CCTV11-Z.png" group-title="山东移动电视",CCTV-11
-http://39.134.144.6:8089/PLTV/88888888/224/3221226407/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://upload.112114.xyz/logo/CCTV12-Z.png" group-title="山东移动电视",CCTV-12
-http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://upload.112114.xyz/logo/CCTV13-Z.png" group-title="山东移动电视",CCTV-13
-http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://upload.112114.xyz/logo/CCTV14-Z.png" group-title="山东移动电视",CCTV-14
-http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://upload.112114.xyz/logo/CCTV15-Z.png" group-title="山东移动电视",CCTV-15
-http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://upload.112114.xyz/logo/CCTV16-Z.png" group-title="山东移动电视",CCTV-16
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://upload.112114.xyz/logo/CCTV17-Z.png" group-title="山东移动电视",CCTV-17
-http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://upload.112114.xyz/logo/CCTV5+-Z.png" group-title="山东移动电视",CCTV-5+
-http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://upload.112114.xyz/logo/CCTV4K-K.png" group-title="山东移动电视",CCTV-4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226615/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-id="CCTV8K" tvg-logo="https://upload.112114.xyz/logo/cctv8k.png" group-title="山东移动电视",CCTV-8K
 http://107.150.60.122/live/cctv8k.m3u8
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="山东移动电视",CHC家庭影院
-http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="山东移动电视",CHC影迷电影
-http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="山东移动电视",CHC动作电影
-http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="山东移动电视",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-name="重温经典影视" tvg-id="重温经典影视" tvg-logo="https://gitee.com/ZiMuAndroid/zimutv/raw/master/logo/重温经典影视.png" group-title="山东移动电视",重温经典影视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="山东移动电视",CETV-1
-http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="山东卫视" tvg-logo="https://upload.112114.xyz/logo/SD.png" group-title="超高清",山东卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226760/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://upload.112114.xyz/logo/BRTV4K.png" group-title="超高清",北京卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226742/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://upload.112114.xyz/logo/DF.png" group-title="超高清",东方卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226786/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/hunan.png" group-title="超高清",湖南卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/jiangsu.png" group-title="超高清",江苏卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226778/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://upload.112114.xyz/logo/zhejiang.png" group-title="超高清",浙江卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226776/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-id="四川卫视" tvg-logo="https://upload.112114.xyz/logo/SICHUANWEISHI.png" group-title="超高清",四川卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="https://upload.112114.xyz/logo/GUANGDONG4K.png" group-title="超高清",广东卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226741/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://upload.112114.xyz/logo/SHENZHEN4K.png" group-title="超高清",深圳卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226736/index.m3u8
-
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东移动电视",山东卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东移动电视",山东齐鲁
-http://39.134.144.6:8089/PLTV/88888888/224/3221226045/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-id="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东移动电视",山东体育
-http://39.134.144.6:8089/PLTV/88888888/224/3221226075/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-id="山东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_news.png" group-title="山东移动电视",山东新闻
-http://39.134.144.6:8089/PLTV/88888888/224/3221226077/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-name="山东农科" tvg-id="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东移动电视",山东农科
-http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东移动电视",山东综艺
-http://39.134.144.6:8089/PLTV/88888888/224/3221225855/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-id="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东移动电视",山东生活
-http://39.134.144.6:8089/PLTV/88888888/224/3221225841/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-name="山东文旅" tvg-id="山东文旅" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_wenlv.png" group-title="山东移动电视",山东文旅
-http://39.134.144.6:8089/PLTV/88888888/224/3221225802/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="山东移动电视",山东少儿
-http://39.134.144.6:8089/PLTV/88888888/224/3221226195/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://upload.112114.xyz/logo/山東教育衛視.png" group-title="山东移动电视",山东教育
-http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://upload.112114.xyz/logo/BRTV4K.png" group-title="超高清",北京卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://upload.112114.xyz/logo/DF.png" group-title="超高清",东方卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/hunan.png" group-title="超高清",湖南卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/jiangsu.png" group-title="超高清",江苏卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://upload.112114.xyz/logo/zhejiang.png" group-title="超高清",浙江卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-id="四川卫视" tvg-logo="https://upload.112114.xyz/logo/SICHUANWEISHI.png" group-title="超高清",四川卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="https://upload.112114.xyz/logo/GUANGDONG4K.png" group-title="超高清",广东卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://upload.112114.xyz/logo/SHENZHEN4K.png" group-title="超高清",深圳卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://upload.112114.xyz/logo/北京卫视.png" group-title="山东移动电视",北京卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226146/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-id="卡酷动画" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/kaku.png" group-title="山东移动电视",北京卡酷
-http://39.134.144.6:8089/PLTV/88888888/224/3221226529/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-id="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="山东移动电视",北京纪实科教
-http://39.134.144.6:8089/PLTV/88888888/224/3221226601/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="山东移动电视",东方卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-id="五星体育" tvg-name="五星体育" tvg-id="cctv" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="山东移动电视",五星体育
-https://bp-livewxtytx.bestv.cn/live/wxty.ts?
+https://bp-livewxtytx.bestv.cn/live/wxty.ts
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-id="cctv" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="山东移动电视",劲爆体育
-http://39.134.144.6:8089/PLTV/88888888/224/3221226559/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-name="求索记录" tvg-id="求索记录" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/QSJL.png" group-title="山东移动电视",求索记录
-http://39.134.144.6:8089/PLTV/88888888/224/3221226727/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="山东移动电视",动漫秀场
-http://39.134.144.6:8089/PLTV/88888888/224/3221226454/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="山东移动电视",湖南卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="山东移动电视",金鹰纪实
-http://39.134.144.6:8089/PLTV/88888888/224/3221226386/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/jinyingkatong.png" group-title="山东移动电视",金鹰卡通
-http://39.134.144.6:8089/PLTV/88888888/224/3221226404/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="山东移动电视",浙江卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="山东移动电视",江苏卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226211/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="山东移动电视",广东卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226213/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="山东移动电视",深圳卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226150/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="山东移动电视",河北卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225779/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="山东移动电视",天津卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226485/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="山东移动电视",辽宁卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225789/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="山东移动电视",黑龙江卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226148/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="山东移动电视",吉林卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226507/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="山东移动电视",东南卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226278/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="山东移动电视",湖北卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225769/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="山东移动电视",安徽卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225775/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="山东移动电视",四川卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226327/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="山东移动电视",重庆卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226310/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="山东移动电视",贵州卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225777/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="山东移动电视",云南卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226525/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="山东移动电视",广西卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226402/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="山东移动电视",海南卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226325/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="山东移动电视",江西卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226312/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="山东移动电视",河南卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226415/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="山东移动电视",陕西卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226785/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000397/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="山东移动电视",甘肃卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226387/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="山东移动电视",宁夏卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226752/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山东移动电视",山西卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225954/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="山东移动电视",内蒙古卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226790/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000398/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="山东移动电视",青海卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226400/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="山东移动电视",西藏卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226749/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="山东移动电视",新疆卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226756/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="山东移动电视",兵团卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226751/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
 
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-id="济南新闻综合" tvg-logo="http://www.zyz98.com/uploads/jnxwzh.jpg" group-title="山东移动电视",济南新闻综合
-http://39.134.144.6:8089/PLTV/88888888/224/3221226215/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-id="潍坊新闻综合" tvg-logo="http://www.zyz98.com/uploads/wftv1.jpg" group-title="山东移动电视",潍坊新闻综合
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-name="潍坊经济生活" tvg-id="潍坊经济生活" tvg-logo="http://www.zyz98.com/uploads/wftv2.jpg" group-title="山东移动电视",潍坊经济生活
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 #EXTINF:-1 tvg-name="潍坊公共频道" tvg-id="潍坊公共频道" tvg-logo="http://www.zyz98.com/uploads/wftv3.jpg" group-title="山东移动电视",潍坊公共频道
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000217/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
 #EXTINF:-1 tvg-name="潍坊科教文化" tvg-id="潍坊科教文化" tvg-logo="http://www.zyz98.com/uploads/wftv4.jpg" group-title="山东移动电视",潍坊科教文化
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000218/index.m3u8
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
 #EXTINF:-1 tvg-name="淄博新闻综合" tvg-id="淄博新闻综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/faedab64034f78f09e63d1a776310a55b3191c7d" group-title="山东移动电视",淄博新闻综合
-http://39.134.144.6:8089/PLTV/88888888/224/3221225986/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
 #EXTINF:-1 tvg-name="淄博影视" tvg-id="淄博影视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b7fd5266d0160924ab18cd13bf5322fae6cd7b899e25" group-title="山东移动电视",淄博影视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226014/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
 #EXTINF:-1 tvg-name="邹平综合" tvg-id="邹平综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c11dfda3a1141742762d0f6036580" group-title="山东移动电视",邹平综合
-http://39.134.144.6:8089/PLTV/88888888/224/3221226152/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 #EXTINF:-1 tvg-name="安丘综合" tvg-id="安丘综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc43a6016e59526cffc1e17b9d8" group-title="山东移动电视",安丘综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
 
