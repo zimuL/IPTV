@@ -39,10 +39,12 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226569/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://upload.112114.xyz/logo/CCTV5+-Z.png" group-title="山东移动电视",CCTV-5+
 http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://upload.112114.xyz/logo/CCTV4K-K.png" group-title="山东移动电视",CCTV-4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226615/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://upload.112114.xyz/logo/cctv8k.png" group-title="山东移动电视",CCTV-8K
 http://www.9kds.com/tool/m3u8.php?hl=eyJ1cmwiOiJodHRwczpcL1wvbGl2ZS5vdHRpcHR2LmNjXC9tY3BcL2NjdHY4ay5tM3U4P3VzZXJpZD02NDkyOTkyNTkmc2lnbj04ZjlkNGRhZDdkOWZjMDVhNDRiNjFiY2NiYjZlNDI0MTkzMzk4MzE0NmY3Y2RkOTg3MmQ4NGY3MmI3Yzc1YTA2NmY1ZmE0OTk1YmNiNmI2MjcxZTYwYmM2NWJkOGFhMjNjZTJiYjJmNjJhMmY5OTM3MmIyYzQ5MjI1YWUzMDkwMTBkZDc5NWU1NTA5MmI0MTljNzljMGQwNzI1JmF1dGhfdG9rZW49MDdiMDdhMGIyMGFkNzY4MWE3NmRhNjAxNTljYjczN2QiLCJ1YSI6Im9rSHR0cFwvTW9kLTEuNS4wLjAifQ==&mode=1
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="山东移动电视",CHC家庭影院
 http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="山东移动电视",CHC影迷电影
@@ -53,10 +55,9 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="http://raw.giteeusercontent.com/ZiMuAndroid/zimu/raw/master/logo/'重温经典影视.png" group-title="山东移动电视",重温经典影视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="短剧频道" tvg-name="短剧频道" tvg-logo="http://raw.giteeusercontent.com/ZiMuAndroid/zimu/raw/master/logo/短剧.jpg" group-title="山东移动电视",短剧频道
-http://39.134.144.6:8089/PLTV/88888888/224/3221226731/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="山东移动电视",CETV-1
 http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://upload.112114.xyz/logo/SD.png" group-title="超高清",山东卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山东移动电视",山东卫视
