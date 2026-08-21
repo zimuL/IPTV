@@ -53,7 +53,7 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="山东移动电视",重温经典
 http://8.138.7.223/tv/cwjd.php
-#EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="http://raw.giteeusercontent.com/ZiMuAndroid/zimu/raw/master/logo/'重温经典影视.png" group-title="山东移动电视",重温经典影视
+#EXTINF:-1 tvg-id="重温经典影视" tvg-name="重温经典影视" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/重温经典影视.png" group-title="山东移动电视",重温经典影视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="山东移动电视",CETV-1
 http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
