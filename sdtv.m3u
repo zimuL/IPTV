@@ -177,6 +177,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226756/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226751/index.m3u8
 #EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/济南新闻综合.png" group-title="山东移动电视",济南新闻综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226215/index.m3u8
+#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV1.png" group-title="山东移动电视" ,青岛新闻
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8
 #EXTINF:-1 tvg-id="潍坊新闻综合" tvg-name="潍坊新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/潍坊1.png" group-title="山东移动电视",潍坊新闻综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/潍坊2.png" group-title="山东移动电视",潍坊经济生活
@@ -185,6 +187,8 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000217/index.m3u8
 #EXTINF:-1 tvg-id="潍坊科教文化" tvg-name="潍坊科教文化" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/潍坊4.png" group-title="山东移动电视",潍坊科教文化
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000218/index.m3u8
+#EXTINF:-1 tvg-id="潍坊高新" tvg-name="潍坊高新" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/潍坊高新区.png" group-title="山东移动电视" ,潍坊高新
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001106/index.m3u8
 #EXTINF:-1 tvg-id="淄博新闻综合" tvg-name="淄博新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/淄博.png" group-title="山东移动电视",淄博新闻综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225986/index.m3u8
 #EXTINF:-1 tvg-id="淄博影视" tvg-name="淄博影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/淄博.png" group-title="山东移动电视",淄博影视
