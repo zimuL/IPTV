@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTM3U 
+url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+url-tvg=“https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml”
+
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh-proxy.org/https://raw.giteeusercontent.com/ZiMuAndroid/zimu/raw/master/sdtv.m3u
