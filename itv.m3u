@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://raw.giteeusercontent.com/ZiMuAndroid/zimu/raw/master/zimutv.m3u
+#EXT-X-SUB-URL https://gh-proxy.org/https://raw.githubusercontent.com/zimuL/IPTV/refs/heads/main/itv.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV1-Z.png" group-title="网络电视",CCTV-1
 http://www.9kds.com/tool/m3u8.php?hl=eyJ1cmwiOiJodHRwczpcL1wvbGl2ZS5vdHRpcHR2LmNjXC9tY3BcL2NjdHYxLm0zdTg/dXNlcmlkPTY0OTI5OTI1OSZzaWduPTA4MjQ3OTNjNDI3YzBjN2NhMzBhOWNlMmRhYmUzNDQ0NDI5NWU4NTQ3MmE0ZDkxZjNjNGIzY2EwYWZmMzdkYzg3MzMwNTEzYWUwOTBkZGM4Mjc0ZmRmYjZjNjI5NTM3NWMxYzk4NWY0YTZmZDRmNGNlOTQwZmM1ZTUwZjUzNzEyZjhkMTM4ZmU5ZjA1MmViNjI3YzJkMTc2JmF1dGhfdG9rZW49MDdiMDdhMGIyMGFkNzY4MWE3NmRhNjAxNTljYjczN2QiLCJ1YSI6InFxbGl2ZSIsInNsaWNlIjoiMiJ9&mode=1
