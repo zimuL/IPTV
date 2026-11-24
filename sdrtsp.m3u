@@ -35,8 +35,8 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221226226/100001000000000600000000025538
 rtsp://223.99.188.13/PLTV/88888888/224/3221227235/10000100000000060000000005622089_0.smil
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV5+.png" group-title="央视卫视",CCTV5+
 rtsp://223.99.188.13/PLTV/88888888/224/3221226218/10000100000000060000000002553918_0.smil
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV16.png" group-title="央视卫视",CCTV16
-rtsp://223.99.188.13/PLTV/88888888/224/3221227480/10000100000000060000000008787924_0.smil
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV16.png" group-title="央视卫视",CCTV16-4K
+rtsp://223.99.188.13/PLTV/88888888/224/3221227584/371343799.smil
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV17.png" group-title="央视卫视",CCTV17
 rtsp://223.99.188.13/PLTV/88888888/224/3221226590/10000100000000060000000003636571_0.smil
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV4K-超高清.png" group-title="央视卫视",CCTV4K
@@ -51,8 +51,8 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227546/100001000000000600000000092401
 rtsp://223.99.188.13/PLTV/88888888/224/3221227554/10000100000000060000000009240201_0.smil
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC动作电影.png" group-title="央视卫视",CHC动作电影
 rtsp://223.99.188.13/PLTV/88888888/224/3221227571/10000100000000060000000009240217_0.smil
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东卫视.png" group-title="央视卫视",山东卫视
-rtsp://223.99.188.13/PLTV/88888888/224/3221225847/10000100000000060000000001379675_0.smil
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东卫视.png" group-title="央视卫视",山东卫视4K
+rtsp://223.99.188.13/PLTV/88888888/224/3221227649/376517349.smil
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东齐鲁.png" group-title="央视卫视",山东齐鲁
 rtsp://223.99.188.13/PLTV/88888888/224/3221226170/10000100000000060000000002178243_0.smil
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东体育.png" group-title="央视卫视",山东体育
@@ -91,18 +91,12 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221226221/100001000000000600000000025539
 rtsp://223.99.188.13/PLTV/88888888/224/3221226220/10000100000000060000000002553907_0.smil
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/河北卫视.png" group-title="央视卫视",河北卫视
 rtsp://223.99.188.13/PLTV/88888888/224/3221226219/10000100000000060000000002553909_0.smil
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/北京卫视.png" group-title="央视卫视",北京卫视
-rtsp://223.99.188.13/PLTV/88888888/224/3221225848/10000100000000060000000001379682_0.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/江苏卫视.png" group-title="央视卫视",江苏卫视
 rtsp://223.99.188.13/PLTV/88888888/224/3221225849/10000100000000060000000001379685_0.smil
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/浙江卫视.png" group-title="央视卫视",浙江卫视
 rtsp://223.99.188.13/PLTV/88888888/224/3221225851/10000100000000060000000001379689_0.smil
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/黑龙江卫视.png" group-title="央视卫视",黑龙江卫视
 rtsp://223.99.188.13/PLTV/88888888/224/3221225850/10000100000000060000000001379688_0.smil
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/广东卫视.png" group-title="央视卫视",广东卫视
-rtsp://223.99.188.13/PLTV/88888888/224/3221225852/10000100000000060000000001379690_0.smil
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/深圳卫视.png" group-title="央视卫视",深圳卫视
-rtsp://223.99.188.13/PLTV/88888888/224/3221225853/10000100000000060000000001379691_0.smil
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东方卫视.png" group-title="央视卫视",东方卫视
 rtsp://223.99.188.13/PLTV/88888888/224/3221226109/10000100000000060000000001806357_0.smil
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东南卫视.png" group-title="央视卫视",东南卫视
