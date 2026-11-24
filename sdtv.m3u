@@ -195,52 +195,54 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 http://39.134.144.6:8089/PLTV/88888888/224/3221225986/index.m3u8
 #EXTINF:-1 tvg-id="淄博影视" tvg-name="淄博影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/淄博.png" group-title="山东移动电视",淄博影视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226014/index.m3u8
-#EXTINF:-1 tvg-id="邹平综合" tvg-name="邹平综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/滨州邹平.png" group-title="山东移动电视",邹平综合
+#EXTINF:-1 tvg-id="邹平综合" tvg-name="邹平综合" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/邹平新闻.png" group-title="山东移动电视",邹平综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226152/index.m3u8
-#EXTINF:-1 tvg-id="安丘综合" tvg-name="安丘综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/潍坊安丘.png" group-title="山东移动电视",安丘综合
+#EXTINF:-1 tvg-id="邹平民生" tvg-name="邹平民生" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/邹平民生.png" group-title="山东移动电视",邹平民生
+https://iqilu.vercel.app/api/iqilu?orgid=11&num=1
+#EXTINF:-1 tvg-id="安丘综合" tvg-name="安丘综合" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/安丘新闻.jpg" group-title="山东移动电视",安丘综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
+#EXTINF:-1 tvg-id="安丘民生" tvg-name="安丘民生" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/安丘民生.jpg" group-title="山东移动电视",安丘民生
+https://iqilu.vercel.app/api/iqilu?orgid=137&num=1
 
 
 
 #EXTINF:-1 tvg-name="士兵突进" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/士兵突击.jpg" group-title="电视剧",士兵突击
-https://live.ottiptv.cc/huya/11342430
+https://live.metshop.top/huya/11342430
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/父母爱情.jpg" group-title="电视剧",父母爱情
-https://live.ottiptv.cc/huya/11602071
+https://live.metshop.top/huya/11602071
 #EXTINF:-1 tvg-name="知否知否" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/知否知否.jpg" group-title="电视剧",知否知否
-https://live.ottiptv.cc/yy/1354936134
+https://mursor.ottiptv.cc/yy/1354936134
 #EXTINF:-1 tvg-name="如懿传" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/如懿传.jpg" group-title="电视剧",如懿传
-https://live.ottiptv.cc/huya/29465868
+https://live.metshop.top/huya/29465868
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/地下交通站.jpg" group-title="电视剧",地下交通站
 https://goodiptv.club/douyu/299854
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/武林外传.jpg" group-title="电视剧",武林外传
-https://live.ottiptv.cc/yy/1355652820
+https://mursor.ottiptv.cc/yy/1355652820
 #EXTINF:-1 tvg-name="大染坊" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/大染坊.jpg" group-title="电视剧",大染坊
-https://live.ottiptv.cc/yy/1353215589
+https://mursor.ottiptv.cc/yy/1353215589
 #EXTINF:-1 tvg-name="大宅门2" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/大宅门.jpg" group-title="电视剧",大宅门2
-https://live.ottiptv.cc/huya/23358421
+https://live.metshop.top/huya/23358421
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/亮剑.jpg" group-title="电视剧",亮剑
-https://live.ottiptv.cc/yy/1382658790
+https://mursor.ottiptv.cc/yy/1382658790
 #EXTINF:-1 tvg-name="红楼梦" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/红楼梦.jpg" group-title="电视剧",红楼梦
-https://live.ottiptv.cc/huya/30080221
+https://live.metshop.top/huya/30080221
 #EXTINF:-1 tvg-name="贞观之治" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/贞观之治.jpg" group-title="电视剧",贞观之治
-https://live.ottiptv.cc/huya/11602054
+https://live.metshop.top/huya/11602054
 #EXTINF:-1 tvg-name="人间正道是沧桑" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/人间正道是沧桑.jpg" group-title="电视剧",人间正道是沧桑
-https://live.ottiptv.cc/huya/26355854
+https://live.metshop.top/huya/26355854
 #EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/雍正王朝.jpg" group-title="电视剧",雍正王朝
-https://live.ottiptv.cc/huya/11342439
+https://live.metshop.top/huya/11342439
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/康熙王朝.jpg" group-title="电视剧",康熙王朝
-https://live.ottiptv.cc/huya/11352940
+https://live.metshop.top/huya/11352940
 #EXTINF:-1 tvg-name="正阳门下" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/正阳门下.jpg" group-title="电视剧",正阳门下
-https://live.ottiptv.cc/yy/1354931580
+https://mursor.ottiptv.cc/yy/1354931580
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/情满四合院.jpg" group-title="电视剧",情满四合院
-https://live.ottiptv.cc/huya/11342426
+https://live.metshop.top/huya/11342426
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/宰相刘罗锅.jpg" group-title="电视剧",宰相刘罗锅
-https://live.ottiptv.cc/yy/1353892468
-#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/鹊刀门传奇.jpg" group-title="电视剧",鹊刀门传奇
-https://live.ottiptv.cc/huya/11352963
+https://mursor.ottiptv.cc/yy/1353892468
 #EXTINF:-1 tvg-name="老农民" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/老农民.jpg" group-title="电视剧",老农民
-https://live.ottiptv.cc/huya/29580971
+https://live.metshop.top/huya/29580971
 #EXTINF:-1 tvg-name="正阳门下" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/正阳门下.jpg" group-title="电视剧",正阳门下
-https://live.ottiptv.cc/yy/1382851588
+https://mursor.ottiptv.cc/yy/1382851588
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://gh-proxy.org/https://github.com/zimuL/IPTV/blob/main/TVCover/地下交通站.jpg" group-title="电视剧",地下交通站
-https://live.ottiptv.cc/yy/1353428972
+https://mursor.ottiptv.cc/yy/1353428972
